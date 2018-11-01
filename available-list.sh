@@ -1,2 +1,2 @@
-docker pull amazonlinux:2017.09 && \
-docker run --rm amazonlinux:2017.09 yum list --showduplicates
+docker pull amazonlinux:2018.03 && \
+docker run --rm amazonlinux:2018.03 yum list --showduplicates
